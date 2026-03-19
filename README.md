@@ -26,7 +26,7 @@ Brain tumor detection from MRI scans is a critical task in medical imaging. This
 
 Brain tumors are life-threatening because they directly impact the brain, leading to loss of motor control, personality changes, and cognitive decline. I chose to build an AI system for brain tumor detection to assist doctors in improving diagnostic accuracy while allowing them to focus on complex decision-making.
 
-But beyond the technical challenge, I believe AI is one of the most powerful tools we have to improve lives. Medicine is one of the areas where that impact can be most direct and most meaningful. I hope this project, however small, is a step in that direction.
+But beyond the technical challenge, This project went through multiple iterations — from 84% to 87% to finally 94.44% accuracy — because I refused to settle for a result I wasn't confident in. In medical AI, the standard has to be higher. I hope this work reflects that commitment.
 
 ## Dataset
 
