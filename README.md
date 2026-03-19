@@ -11,7 +11,7 @@ A deep learning web application that classifies brain tumors from MRI scans into
 
 ---
 
-## Introdutionn
+## Introdution
 
 Brain tumor detection from MRI scans is a critical task in medical imaging. This project builds an end-to-end deep learning pipeline that:
 
@@ -79,12 +79,6 @@ Dropout(0.5) → Linear(2048, 256) → ReLU → Dropout(0.5) → Linear(256, 4)
 - Random affine shear
 
 ---
-
-## Results
-
-| Metric | Score |
-|--------|-------|
-| Test Accuracy | **94.44%** |
 
 ## Results
 
